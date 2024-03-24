@@ -1,0 +1,35 @@
+.inhoud{ 
+    position: relative;
+    width: 550px;
+    margin: auto;}
+
+img{
+    border-radius: 50%;
+    height: 150px;
+    float: left;
+    margin-left: 70px;
+    
+}
+    .contact{
+    list-style-type: none;
+    float: left;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.developper{
+
+}
+
+.cv-inhoud{
+}
+
+h1, h2{
+    text-align: center;
+}
+
+hr{
+    border-color: lightskyblue;
+}
+
+p{margin: 0px;}
